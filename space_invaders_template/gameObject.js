@@ -4,6 +4,7 @@ class GameObject{
         this.y = y;
         this.width = width;
         this.height = height;
+        this.speed = 5;
     }
 
     move(){
